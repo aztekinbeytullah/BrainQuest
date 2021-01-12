@@ -1,0 +1,97 @@
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\bin\Debug\BrainQuest.exe
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\bin\Debug\BrainQuest.pdb
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.Properties.Resources.resources
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.pdb
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.ekraniGapla.resources
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.mainForm.resources
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.girisForm.resources
+C:\Documents and Settings\Admin\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sunumForm.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.pdb
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\bin\Debug\BrainQuest.exe
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\bin\Debug\BrainQuest.pdb
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.ekraniGapla.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.mainForm.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.girisForm.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.Properties.Resources.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sunumForm.resources
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.GenerateResource.Cache
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\BOTE-1\Desktop\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.ekraniGapla.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.mainForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.girisForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.Properties.Resources.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sunumForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sozlukForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.notDefteriForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.hakkimizdaForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.yardimForm.resources
+C:\Documents and Settings\Beytullah\Belgelerim\Visual Studio 2008\Projects\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.testFormu.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.ekraniGapla.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.hakkimizdaForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.mainForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.girisForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.notDefteriForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.Properties.Resources.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sozlukForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sunumForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.testFormu.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.yardimForm.resources
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.GenerateResource.Cache
+C:\Documents and Settings\Beytullah\Desktop\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.testSonucBelgesi.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.ResolveComReference.cache
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.exe
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\bin\Debug\BrainQuest.pdb
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.ekraniGapla.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.hakkimizdaForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.mainForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.girisForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.notDefteriForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.Properties.Resources.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sozlukForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.sunumForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.testFormu.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.testSonucBelgesi.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.yardimForm.resources
+C:\Documents and Settings\Beytullah\Desktop\Yeni Klasör (2)\BrainQuest\BrainQuest\BrainQuest\obj\Debug\BrainQuest.csproj.GenerateResource.Cache
+C:\Documents and Settings\HAKAN D\Desktop\BrainQuest CD\C# ve Diğer Programların Tasarım Kodları\BrainQuest C# Proje Taslağı\BrainQuest\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\HAKAN D\Desktop\BrainQuest CD\C# ve Diğer Programların Tasarım Kodları\BrainQuest C# Proje Taslağı\BrainQuest\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\HAKAN D\Desktop\BrainQuest CD\C# ve Diğer Programların Tasarım Kodları\BrainQuest C# Proje Taslağı\BrainQuest\obj\Debug\BrainQuest.csproj.ResolveComReference.cache
+C:\Documents and Settings\HAKAN D\Desktop\BrainQuest CD\C# ve Diğer Programların Tasarım Kodları\BrainQuest C# Proje Taslağı\BrainQuest\obj\Debug\BrainQuest.exe
+C:\Documents and Settings\HAKAN D\Desktop\BrainQuest CD\C# ve Diğer Programların Tasarım Kodları\BrainQuest C# Proje Taslağı\BrainQuest\obj\Debug\BrainQuest.pdb
