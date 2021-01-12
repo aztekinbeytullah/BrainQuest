@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9724EC87-9900-45EB-BF2D-B3B547D7B95E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BrainQuest</RootNamespace>
+    <AssemblyName>BrainQuest</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>aa.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ekraniGapla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekraniGapla.Designer.cs">
+      <DependentUpon>ekraniGapla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hakkimizdaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hakkimizdaForm.Designer.cs">
+      <DependentUpon>hakkimizdaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="girisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="girisForm.Designer.cs">
+      <DependentUpon>girisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myClass.cs" />
+    <Compile Include="notDefteriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notDefteriForm.Designer.cs">
+      <DependentUpon>notDefteriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ekraniGapla.resx">
+      <DependentUpon>ekraniGapla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hakkimizdaForm.resx">
+      <DependentUpon>hakkimizdaForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="girisForm.resx">
+      <DependentUpon>girisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notDefteriForm.resx">
+      <DependentUpon>notDefteriForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sozlukForm.resx">
+      <DependentUpon>sozlukForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sunumForm.resx">
+      <DependentUpon>sunumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testFormu.resx">
+      <DependentUpon>testFormu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testSonucBelgesi.resx">
+      <DependentUpon>testSonucBelgesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yardimForm.resx">
+      <DependentUpon>yardimForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="sozlukForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sozlukForm.Designer.cs">
+      <DependentUpon>sozlukForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sunumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sunumForm.Designer.cs">
+      <DependentUpon>sunumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testFormu.Designer.cs">
+      <DependentUpon>testFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testSonucBelgesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testSonucBelgesi.Designer.cs">
+      <DependentUpon>testSonucBelgesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yardimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yardimForm.Designer.cs">
+      <DependentUpon>yardimForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notebook.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sözlükc.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\body.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris_ekranı.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sözlükArkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\harita.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arkaPlan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunumUst.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunumFlashBack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkimizda.jpg" />
+    <None Include="Resources\notDefteriArkaPlan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yardinUstMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hakkimizdaIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testUstMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testAltMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\testSonuc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aa.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
